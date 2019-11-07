@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Quentin Bertrand
+
+~~~
+{}{img_left}{london_cropped.png}{alt text}{160}{160}
+PhD student \n
+INRIA\/CEA \n
+E-mail: /quentin.bertrand/ \[@\] inria \[DOT\] fr
+~~~
+
+== About me
+I am a 2nd year PhD student in machine learning at Inria Paris-Saclay
+(in the [https://team.inria.fr/parietal/ Parietal Team]), under the supervision of [https://josephsalmon.eu/ Joseph Salmon] and [http://alexandre.gramfort.net/ Alexandre Gramfort].
+I work on the optimization and statistical aspects of high dimensional sparse linear regression applied to brain signals reconstruction.
+I have a keen interest in the Python programming language: I am a contributor to
+[https://martinos.org/mne/stable/index.html MNE].
+I also develop a [https://github.com/QB3/CLaR python package] for high dimensional sparse linear regression with correlated noise.
+
+\n
+Here is a short [./pdf/CV_Quentin_Bertrand.pdf résumé] and my [research.html list of publications].
+
+== News
+
+=== Upcoming events
+- December 8-15, 2019: I will present our paper [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso] at [https://nips.cc/ NeurIPS2019] in Vancouver, Canada
+- December 3-4, 2019: I will give a 20min talk on our paper "Support recovery and sup-norm convergnce of sparse pivotal estimator" at [https://www.fondation-hadamard.fr/fr/content/pgmo-days-2019 PGMO days] in Palaiseau, France
+
+
+=== Past events
+- October 21-25, 2019: I was awarded a grant from [https://www.gdria.fr/programme-visites-de-doctorants-2019/ GDR IA] to visit [https://samuelvaiter.com/ Samuel Vaiter] in Dijon, France
+- October 16-18, 2019: I participated, and gave a 20min oral presentation at [http://gdrmoa.math.cnrs.fr/activites/journees-annuelles-2019-gdr-moa/ Journées du GDR MOA 2019] in Rennes, France
