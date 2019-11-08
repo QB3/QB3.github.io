@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
-
+==Quentin BERTRAND - Research
 
 == Papers
 
@@ -14,6 +14,6 @@
 
 == Slides
 
--    [./pdf/talks/GDRMOA2019.pdf
+-    [./pdfs/talks/GDRMOA2019.pdf
         Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso],
         18\/10\/2019, GDR MOA 2019, France.

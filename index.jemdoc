@@ -1,23 +1,28 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-==Quentin Bertrand
+==Quentin BERTRAND - Home
 
 ~~~
-{}{img_left}{london_cropped.png}{alt text}{160}{160}
-PhD student \n
-INRIA\/CEA \n
-E-mail: /quentin.bertrand/ \[@\] inria \[DOT\] fr
-~~~
+{}{img_left}{./london_cropped.png}{Photograph in a suit}{194}{247}{}
 
-== About me
 I am a 2nd year PhD student in machine learning at Inria Paris-Saclay
 (in the [https://team.inria.fr/parietal/ Parietal Team]), under the supervision of [https://josephsalmon.eu/ Joseph Salmon] and [http://alexandre.gramfort.net/ Alexandre Gramfort].
+\n
 I work on the optimization and statistical aspects of high dimensional sparse linear regression applied to brain signals reconstruction.
 I have a keen interest in the Python programming language: I am a contributor to
 [https://martinos.org/mne/stable/index.html MNE].
+\n
 I also develop a [https://github.com/QB3/CLaR python package] for high dimensional sparse linear regression with correlated noise.
 
 \n
-Here is a short [./pdf/CV_Quentin_Bertrand.pdf résumé] and my [research.html list of publications].
+Here is a short [./pdfs/CV_Quentin_Bertrand.pdf résumé] and my [research.html list of publications].
+
+~~~
+
+== Contact
+~~~
+Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
+~~~
+
 
 == News
 
