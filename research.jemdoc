@@ -3,9 +3,13 @@
 
 == Papers
 
+
+- 2020
+--    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon, Implicit differentiation of Lasso-type models for hyperparameter optimization, Submitted
+--   M. Massias\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon,
+        [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation], AISTATS2020
+
 - 2019
---   *Q. Bertrand*\*, M. Massias\*, A. Gramfort, J. Salmon,
-        Support recovery and sup-norm convergence rates for sparse pivotal estimation, submitted
 --   *Q. Bertrand*\*, M. Massias\*, A. Gramfort, J. Salmon,
         [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso], NeurIPS2019.
         [https://github.com/QBE/clar code]
