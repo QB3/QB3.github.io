@@ -11,7 +11,7 @@ I work on the optimization and statistical aspects of high dimensional sparse li
 I have a keen interest in the Python programming language: I am a contributor to
 [https://martinos.org/mne/stable/index.html MNE].
 \n
-I also develop a [https://github.com/QB3/CLaR python package] for high dimensional sparse linear regression with correlated noise.
+I also develop  a [https://github.com/QB3/sparse-ho python package ] for automatic hyperparameter selection of sparse linear models.
 
 \n
 Here is a short [./pdfs/CV_Quentin_Bertrand.pdf resume] and my [research.html list of publications].
@@ -27,10 +27,11 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 == News
 
 === Upcoming events
-- June 1: our work on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] has been accepted to ICML2020, see you there ! (virtually)
-- June 28 - July 10, 2020: I was selected to attend the [http://mlss.tuebingen.mpg.de/2020/index.html Machine Learning Summer School (MLSS)], see you there! (virtually)
+- August 26-28: I will present our paper on [https://arxiv.org/abs/2001.05401 support recovery and sup-norm convergence rates for sparse pivotal estimation]  at [https://www.aistats.org/, AISTATS 2020] in Palermo, Italy
 
 === Past events
+- July 12-19: I presented our work on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] at ICML2020, see you there ! (virtually)
+- June 28 - July 10, 2020: I attended the [http://mlss.tuebingen.mpg.de/2020/index.html Machine Learning Summer School (MLSS)] (virtually)
 - January 6, 2020: our paper [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation] was accepted to [https://www.aistats.org/, AISTATS 2020] in Palermo, Italy
 - December 8-15, 2019: I presented our paper [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso] at [https://nips.cc/ NeurIPS2019] in Vancouver, Canada
 - December 3-4, 2019: I gave a 20min talk on our paper [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation] at [https://www.fondation-hadamard.fr/fr/content/pgmo-days-2019 PGMO days] in Palaiseau, France
