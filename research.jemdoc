@@ -5,6 +5,7 @@
 
 
 - 2020
+--    Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Submitted
 --    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon, [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization], ICML2020
 --   M. Massias\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon,
         [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation], AISTATS2020
