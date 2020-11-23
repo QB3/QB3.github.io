@@ -12,7 +12,8 @@
         [https://mathurinm.github.io/andersoncd/ doc]
 --    Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Submitted
 --    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
-        [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization],
+        [https://arxiv.org/pdf/2002.08943.pdf
+        Implicit differentiation of Lasso-type models for hyperparameter optimization],
         ICML2020,
         [https://proceedings.icml.cc/paper/2020/file/e0ab531ec312161511493b002f9be2ee-Paper.pdf proc.],
         [https://github.com/QB3/sparse-ho code],
@@ -32,6 +33,9 @@
 
 == Slides
 
+-    [./pdfs/talks/sparse_ho_long.pdf
+        Implicit differentiation of Lasso-type models for hyperparameter optimization],
+        09\/09\/2020, SMAI MODE 2020, France.
 -    [./pdfs/talks/GDRMOA2019.pdf
         Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso],
         18\/10\/2019, GDR MOA 2019, France.
