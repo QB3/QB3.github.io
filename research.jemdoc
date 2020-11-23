@@ -5,18 +5,28 @@
 
 
 - 2020
+--    Q. Bertrand, M. Massias
+        [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent],
+        Submitted,
+        [https://github.com/mathurinm/andersoncd code],
+        [https://mathurinm.github.io/andersoncd/ doc]
 --    Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Submitted
---    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon, [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization], ICML2020
-[https://proceedings.icml.cc/paper/2020/file/e0ab531ec312161511493b002f9be2ee-Paper.pdf proc.]
+--    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
+        [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization],
+        ICML2020,
+        [https://proceedings.icml.cc/paper/2020/file/e0ab531ec312161511493b002f9be2ee-Paper.pdf proc.],
+        [https://github.com/QB3/sparse-ho code],
+        [https://qb3.github.io/sparse-ho/ doc]
 --   M. Massias\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon,
-        [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation], AISTATS2020
+        [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation],
+        AISTATS2020,
         [http://proceedings.mlr.press/v108/massias20a/massias20a.pdf proc.]
 
 - 2019
 --   *Q. Bertrand*\*, M. Massias\*, A. Gramfort, J. Salmon,
-        [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso], NeurIPS2019.
-        [https://papers.nips.cc/paper/8651-handling-correlated-and-repeated-measurements-with-the-smoothed-multivariate-square-root-lasso.pdf proc.]
-        [https://github.com/QBE/clar code]
+        [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso], NeurIPS2019,
+        [https://papers.nips.cc/paper/8651-handling-correlated-and-repeated-measurements-with-the-smoothed-multivariate-square-root-lasso.pdf proc.],
+        [https://github.com/QBE/clar code],
         [https://qb3.github.io/CLaR/ doc]
 
 
