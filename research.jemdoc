@@ -36,7 +36,7 @@
 == Slides
 
 -    [./pdfs/talks/DS3_slides.pdf
-        Optimization for machine learning, "Hands on!"],
+        Optimization for machine learning, "Hands on"],
         04\/01\/2021, Data science school of École polytechnique, France.
 -    [./pdfs/talks/sparse_ho_long.pdf
         Implicit differentiation of Lasso-type models for hyperparameter optimization],
