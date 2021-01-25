@@ -5,12 +5,12 @@
 
 
 - 2021
---    *Q. Bertrand*, M. Massias
+--    *Q. Bertrand*, M. Massias,
         [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent],
         AISTATS 2021,
         [https://github.com/mathurinm/andersoncd code],
         [https://mathurinm.github.io/andersoncd/ doc]
---    Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Submitted
+--    Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter, [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Submitted
 
 - 2020
 --    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
@@ -47,6 +47,7 @@
 
 
 == Reviewing service
+- ICML 2021
 - AISTATS 2021
 - ICLR 2021
 - NeurIPS 2020
