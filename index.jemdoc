@@ -13,7 +13,7 @@ I have a keen interest in coordinate descent algorithms, hyperparameter selectio
 I also develop  a [https://github.com/QB3/sparse-ho python package ] for fast automatic hyperparameter selection of sparse linear models.
 
 \n
-Here is a short [./pdfs/cv_7.pdf resume] and my [research.html list of publications].
+Here is a short [./pdfs/Quentin_BERTRAND_CV.pdf resume] and my [research.html list of publications].
 
 \n
 We are currently looking for interns to work on [./pdfs/internship_proposal.pdf bilevel optimization for hyperparameter setting] starting Spring 2021! Feel free to contact us.
@@ -27,13 +27,14 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
-- January 23: our paper [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent] was accepted to AISTATS 2021!
-- February 8: I will present our work on implicit differentiation at
-[https://research.google/locations/montreal/ Google Brain, Montréal]
-- February 17: I will present our work on implicit differentiation in the group of [https://mitliagkas.github.io/ Ioannis Mitliagkas] from the [https://mila.quebec/ MILA]
+- April 13: I will attend AISTATS 2021 (virtually)
 - May 3rd: I will give a talk on bilevel optimization for hyperparameter optimization at [https://imag.edu.umontpellier.fr/ Institut Montpellierain Alexandre Grothendieck]
 
 === Past events
+- February 17: I presented our work on implicit differentiation in the group of [https://mitliagkas.github.io/ Ioannis Mitliagkas] from the [https://mila.quebec/ MILA]
+- February 8: I presented our work on implicit differentiation at
+[https://research.google/locations/montreal/ Google Brain, Montréal]
+- January 23: our paper [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent] was accepted to AISTATS 2021!
 - January 4-9: I gave a tutorial on optimization for machine learning at [https://www.ds3-datascience-polytechnique.fr/ the Data Science Summer School ]  of École polytechnique
 - December 10: I presented our paper on [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation]  at the [https://statistical-learning-seminars.github.io/ online statistical learning seminar] organized by [https://www.math.uni.wroc.pl/~mbogdan/ Malgorzata Bogdan]
 - November 23: see our new preprint on [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent]!
