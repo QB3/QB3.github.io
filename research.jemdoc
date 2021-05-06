@@ -5,6 +5,11 @@
 
 
 - 2021
+--    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Massias, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
+        [https://arxiv.org/abs/2105.01637
+        Implicit differentiation for fast hyperparameter selection in non-smooth convex learning],
+        [https://github.com/QB3/sparse-ho code],
+        [https://qb3.github.io/sparse-ho/ doc]
 --    *Q. Bertrand*, M. Massias,
         [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent],
         AISTATS 2021,
