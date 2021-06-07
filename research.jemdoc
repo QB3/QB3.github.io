@@ -40,6 +40,9 @@
 
 == Slides
 
+-    [./pdfs/talks/cd.pdf
+        Anderson acceleration of coordinate descent],
+        07\/06\/2021, Journées des statistiques, Nice, France.
 -    [./pdfs/talks/DS3_slides.pdf
         Optimization for machine learning, "Hands on"],
         04\/01\/2021, Data science summer school of École polytechnique, France.
