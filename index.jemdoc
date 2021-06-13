@@ -25,10 +25,11 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
-- April 13: I will attend AISTATS 2021 (virtually)
-- May 3rd: I will give a talk on bilevel optimization for hyperparameter optimization at [https://imag.edu.umontpellier.fr/ Institut Montpellierain Alexandre Grothendieck]
+- June 15: I will give a talk on Anderson acceleration for coordinate descent at [https://cap2021.sciencesconf.org/ CAP 2021] (virtually)
 
 === Past events
+- April 13: I attended AISTATS 2021 (virtually)
+- May 3rd: I gave a talk on bilevel optimization for hyperparameter optimization at [https://imag.edu.umontpellier.fr/ Institut Montpellierain Alexandre Grothendieck]
 - February 17: I presented our work on implicit differentiation in the group of [https://mitliagkas.github.io/ Ioannis Mitliagkas] from the [https://mila.quebec/ MILA]
 - February 8: I presented our work on implicit differentiation at
 [https://research.google/locations/montreal/ Google Brain, Montréal]
