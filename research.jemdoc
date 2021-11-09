@@ -5,6 +5,12 @@
 
 
 - 2021
+--    P.-A. Bannier, *Q. Bertrand*, J. Salmon, A. Gramfort,
+        [https://hal.archives-ouvertes.fr/hal-03418092/document
+        Electromagnetic neural source imaging under
+        sparsity constraints with SURE-based hyperparameter tuning],
+        NeurIPS2021 Workshop medical imaging meets NeurIPS,
+        [https://github.com/PABannier/automatic_hp_selection_for_meg code]
 --    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Massias, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
         [https://arxiv.org/abs/2105.01637
         Implicit differentiation for fast hyperparameter selection in non-smooth convex learning],
