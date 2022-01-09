@@ -51,12 +51,15 @@
 
 == Slides
 
+-    [./pdfs/slides_defense.pdf
+        Hyperparameter selection for high dimensional sparse learning: application to neuroimaging],
+        28\/09\/2021, Ph. D. Defense, Paris-Saclay, France.
 -    [./pdfs/talks/cd.pdf
         Anderson acceleration of coordinate descent],
         07\/06\/2021, Journées des statistiques, Nice, France.
 -    [./pdfs/talks/DS3_slides.pdf
         Optimization for machine learning, "Hands on"],
-        04\/01\/2021, Data science summer school of École polytechnique, France.
+        04\/01\/2021, Data Science Summer School of École polytechnique, France.
 -    [./pdfs/talks/sparse_ho_long.pdf
         Implicit differentiation of Lasso-type models for hyperparameter optimization],
         09\/09\/2020, SMAI MODE 2020, France.
@@ -68,9 +71,9 @@
 == Reviewing service
 - ICML 2021
 - AISTATS 2021
-- ICLR 2021
+- ICLR 2021-2022
 - NeurIPS 2020-2021
-- JMLR (2021)
+- JMLR 2021-2022
 - Neuroimage 2019-2021
-- Electronic Journal of Statistics (2020)
-- IEEE SPL (2020)
+- Electronic Journal of Statistics 2020
+- IEEE SPL 2020
