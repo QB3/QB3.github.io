@@ -9,7 +9,15 @@
 == Papers
 
 - 2022
--- *Q. Bertrand*, Q. Klopfenstein\, P.-A. Bannier, G. Gidel, M. Massias [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm]
+-- *Q. Bertrand*, Q. Klopfenstein\, P.-A. Bannier, G. Gidel, M. Massias [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm],
+[https://github.com/scikit-learn-contrib/skglm code],
+[https://contrib.scikit-learn.org/skglm/ doc]
+--  *Q. Bertrand*\*, Q. Klopfenstein\*, M. Massias, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
+        [https://arxiv.org/abs/2105.01637
+        Implicit differentiation for fast hyperparameter selection in non-smooth convex learning],
+        JMLR,
+        [https://github.com/QB3/sparse-ho code],
+        [https://qb3.github.io/sparse-ho/ doc]
 
 
 - 2021
@@ -19,11 +27,6 @@
         sparsity constraints with SURE-based hyperparameter tuning],
         NeurIPS2021 Workshop medical imaging meets NeurIPS,
         [https://github.com/PABannier/automatic_hp_selection_for_meg code]
---    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Massias, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
-        [https://arxiv.org/abs/2105.01637
-        Implicit differentiation for fast hyperparameter selection in non-smooth convex learning],
-        [https://github.com/QB3/sparse-ho code],
-        [https://qb3.github.io/sparse-ho/ doc]
 --    *Q. Bertrand*, M. Massias,
         [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent],
         AISTATS 2021,
@@ -72,10 +75,10 @@
 
 
 == Reviewing service
-- ICML 2021
+- ICML 2021-2022
 - AISTATS 2021
 - ICLR 2021-2022
-- NeurIPS 2020-2021
+- NeurIPS 2020-2022
 - JMLR 2021-2022
 - Neuroimage 2019-2021
 - Electronic Journal of Statistics 2020
