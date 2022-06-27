@@ -29,6 +29,8 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- We just released our paper! [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games
+are Transitive, not Additive]
 - Our paper [https://arxiv.org/abs/2105.01637 Implicit differentiation for fast hyperparameter selection in non-smooth convex learning] was accepted to JMLR!
 - The code of our paper [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] was integrated in the [https://github.com/scikit-learn-contrib/skglm scikit-contrib] repository. Thanks a lot to all the contributors!
 - We released our paper [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] on fast algorithms for generalized linear models, which potentially non-convex penalties

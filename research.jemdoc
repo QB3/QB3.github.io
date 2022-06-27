@@ -9,6 +9,7 @@
 == Papers
 
 - 2022
+-- *Q. Bertrand*, W. M. Czarnecki, G. Gidel [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive]
 -- *Q. Bertrand*, Q. Klopfenstein\, P.-A. Bannier, G. Gidel, M. Massias [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm],
 [https://github.com/scikit-learn-contrib/skglm code],
 [https://contrib.scikit-learn.org/skglm/ doc]
