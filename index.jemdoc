@@ -29,41 +29,28 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- Our papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and The Curse of Unrolling: Rate of Differentiating Through Optimization have been accepted to NeurIPS 2022!
 - We just released our paper! [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games
 are Transitive, not Additive]
 - Our paper [https://arxiv.org/abs/2105.01637 Implicit differentiation for fast hyperparameter selection in non-smooth convex learning] was accepted to JMLR!
 - The code of our paper [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] was integrated in the [https://github.com/scikit-learn-contrib/skglm scikit-contrib] repository. Thanks a lot to all the contributors!
-- We released our paper [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] on fast algorithms for generalized linear models, which potentially non-convex penalties
+
+=== Past events
 - Our paper [https://hal.archives-ouvertes.fr/hal-03418092/document
         Electromagnetic neural source imaging under
         sparsity constraints with SURE-based hyperparameter tuning]
  was accepted at the "medical imaging meets NeurIPS2021" workshop!
-
-
-=== Past events
 - Since November 2021 I am be a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien]
 - I was awarded the NeurIPS outstanding reviewer award (top 8%)
 - I defended my Ph. D. thesis on Tuesday 28th September! Here is the [./pdfs/thesis_quentin_bertrand.pdf manuscript], here are the [./pdfs/slides_defense.pdf slides], and here is the [https://youtu.be/-CnX6qtbCYU video of the defense].
 Thanks again to all my collaborators
-- June 15: I gave a talk on Anderson acceleration for coordinate descent at [https://cap2021.sciencesconf.org/ CAP 2021] (virtually)
-- April 13: I attended AISTATS 2021 (virtually)
-- May 3rd: I gave a talk on bilevel optimization for hyperparameter optimization at [https://imag.edu.umontpellier.fr/ Institut Montpellierain Alexandre Grothendieck]
-- February 17: I presented our work on implicit differentiation in the group of [https://mitliagkas.github.io/ Ioannis Mitliagkas] from the [https://mila.quebec/ Mila]
 - February 8: I presented our work on implicit differentiation at
 [https://research.google/locations/montreal/ Google Brain, Montréal]
 - January 23: our paper [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent] was accepted to AISTATS 2021!
 - January 4-9: I gave a tutorial on optimization for machine learning at [https://www.ds3-datascience-polytechnique.fr/ the Data Science Summer School ]  of École polytechnique
-- December 10: I presented our paper on [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation]  at the [https://statistical-learning-seminars.github.io/ online statistical learning seminar] organized by [https://www.math.uni.wroc.pl/~mbogdan/ Malgorzata Bogdan]
-- November 23: see our new preprint on [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent]!
-- October 26: I presented our paper on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] in the team of [https://web.mit.edu/lrosasco/www/ Lorenzo Rosasco]
-- October 23: see our new preprint on [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent]!
-- September 9: I presented our paper on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] at [https://smai-mode2020.inria.fr/ SMAI MODE] (virtually)
-- September 2: I presented our paper on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] in the team of [http://juliejosse.com/ Julie Josse] at [https://www.ehess.fr]
 - August 26-28: I presented our paper on [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation]  at [https://www.aistats.org/, AISTATS 2020] (virtually)
 - July 12-19: I presented our work on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] at ICML 2020 (virtually)
 - June 28 - July 10, 2020: I attended the [http://mlss.tuebingen.mpg.de/2020/index.html Machine Learning Summer School (MLSS)] (virtually)
 - January 6, 2020: our paper [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation] was accepted to [https://www.aistats.org/, AISTATS 2020] in Palermo, Italy
 - December 8-15, 2019: I presented our paper [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso] at [https://nips.cc/ NeurIPS 2019] in Vancouver, Canada
-- December 3-4, 2019: I gave a 20min talk on our paper [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation] at [https://www.fondation-hadamard.fr/fr/content/pgmo-days-2019 PGMO days] in Palaiseau, France
 - October 21-25, 2019: I was awarded a grant from [https://www.gdria.fr/programme-visites-de-doctorants-2019/ GDR IA] to visit [https://samuelvaiter.com/ Samuel Vaiter] in Dijon, France
-- October 16-18, 2019: I participated, and gave a 20min oral presentation at [http://gdrmoa.math.cnrs.fr/activites/journees-annuelles-2019-gdr-moa/ Journées du GDR MOA 2019] in Rennes, France
