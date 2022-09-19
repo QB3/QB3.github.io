@@ -6,14 +6,14 @@
 
 I am a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
 \n
-I work on the links between game theory and bilevel optimization.
+I work on game theory and bilevel optimization.
 
 Prior to this position, I did my Ph. D. at Inria Paris-Saclay
 (in the [https://team.inria.fr/parietal/ Parietal Team]) under the supervision of [https://josephsalmon.eu/ Joseph Salmon] and [http://alexandre.gramfort.net/ Alexandre Gramfort].
 \n
 I worked on the optimization and statistical aspects of high dimensional sparse linear regression applied to brain signals reconstruction.
 \n
-In particular, I developped a python package for fast [https://github.com/scikit-learn-contrib/skglm computation] and [https://github.com/QB3/sparse-ho automatic hyperparameter selection] of sparse linear models.
+In particular, I developed python packages for fast [https://github.com/scikit-learn-contrib/skglm computation] and [https://github.com/QB3/sparse-ho automatic hyperparameter selection] of sparse linear models.
 
 \n
 Here is a short [./pdfs/Quentin_BERTRAND_CV.pdf resume] and my [research.html list of publications].
@@ -40,7 +40,7 @@ are Transitive, not Additive]
         Electromagnetic neural source imaging under
         sparsity constraints with SURE-based hyperparameter tuning]
  was accepted at the "medical imaging meets NeurIPS2021" workshop!
-- Since November 2021 I am be a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien]
+- Since November 2021 I am a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien]
 - I was awarded the NeurIPS outstanding reviewer award (top 8%)
 - I defended my Ph. D. thesis on Tuesday 28th September! Here is the [./pdfs/thesis_quentin_bertrand.pdf manuscript], here are the [./pdfs/slides_defense.pdf slides], and here is the [https://youtu.be/-CnX6qtbCYU video of the defense].
 Thanks again to all my collaborators
