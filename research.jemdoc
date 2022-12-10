@@ -9,6 +9,8 @@
 == Papers
 
 - 2022
+-- S. Lachapelle, T. Deleu, D. Mahajan, I. Mitliagkas, Y. Bengio, S. Lacoste-Julien, Q. *Bertrand*,
+[https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective]
 -- D. Scieur, *Q. Bertrand*, G. Gidel, F. Pedregosa,
 [https://arxiv.org/abs/2209.13271  The Curse of Unrolling: Rate of Differentiating Through Optimization],
 NeurIPS 2022
