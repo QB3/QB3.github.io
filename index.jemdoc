@@ -29,6 +29,8 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- I just presented our paper [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective] at the [https://winter22.cms.math.ca/ Canadian Mathematical Society Winter Workshop]
+- I just presented our two papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and [https://arxiv.org/abs/2209.13271 The Curse of Unrolling: Rate of Differentiating Through Optimization] at NeurIPS 2022
 - We just released our paper on sparsity for disentanglement [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective]!
 - I was awarded the [https://neurips.cc/Conferences/2022/ProgramCommittee top reviewer award] at NeurIPS 2022!
 - Our papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and [https://arxiv.org/abs/2209.13271 The Curse of Unrolling: Rate of Differentiating Through Optimization] have been accepted to NeurIPS 2022!
@@ -43,7 +45,7 @@ are Transitive, not Additive]
         sparsity constraints with SURE-based hyperparameter tuning]
  was accepted at the "medical imaging meets NeurIPS2021" workshop!
 - Since November 2021 I am a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien]
-- I was awarded the NeurIPS outstanding reviewer award (top 8%)
+- I was awarded the NeurIPS 2021 outstanding reviewer award (top 8%)
 - I defended my Ph. D. thesis on Tuesday 28th September! Here is the [./pdfs/thesis_quentin_bertrand.pdf manuscript], here are the [./pdfs/slides_defense.pdf slides], and here is the [https://youtu.be/-CnX6qtbCYU video of the defense].
 Thanks again to all my collaborators
 - February 8: I presented our work on implicit differentiation at

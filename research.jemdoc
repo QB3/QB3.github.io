@@ -8,13 +8,17 @@
 
 == Papers
 
+- 2023
+-- S. Lachapelle, T. Deleu, D. Mahajan, I. Mitliagkas, Y. Bengio, S. Lacoste-Julien, *Q. Bertrand*,
+[https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective] (Submitted)
+-- *Q. Bertrand*, W. M. Czarnecki, G. Gidel [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] (Submitted)
+-- Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter, [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Optimization Letters
+
+
 - 2022
--- S. Lachapelle, T. Deleu, D. Mahajan, I. Mitliagkas, Y. Bengio, S. Lacoste-Julien, Q. *Bertrand*,
-[https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective]
 -- D. Scieur, *Q. Bertrand*, G. Gidel, F. Pedregosa,
 [https://arxiv.org/abs/2209.13271  The Curse of Unrolling: Rate of Differentiating Through Optimization],
 NeurIPS 2022
--- *Q. Bertrand*, W. M. Czarnecki, G. Gidel [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive]
 -- *Q. Bertrand*, Q. Klopfenstein\, P.-A. Bannier, G. Gidel, M. Massias [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm],
 NeurIPS 2022
 [https://github.com/scikit-learn-contrib/skglm code],
@@ -32,14 +36,14 @@ NeurIPS 2022
         [https://hal.archives-ouvertes.fr/hal-03418092/document
         Electromagnetic neural source imaging under
         sparsity constraints with SURE-based hyperparameter tuning],
-        NeurIPS2021 Workshop medical imaging meets NeurIPS,
+        Workshop medical imaging meets NeurIPS, NeurIPS2021,
         [https://github.com/PABannier/automatic_hp_selection_for_meg code]
 --    *Q. Bertrand*, M. Massias,
         [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent],
         AISTATS 2021,
         [https://github.com/mathurinm/andersoncd code],
         [https://mathurinm.github.io/andersoncd/ doc]
---    Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter, [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Submitted
+
 
 - 2020
 --    *Q. Bertrand*\*, Q. Klopfenstein\*, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon,
