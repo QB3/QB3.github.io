@@ -10,7 +10,8 @@
 
 - 2023
 -- S. Lachapelle, T. Deleu, D. Mahajan, I. Mitliagkas, Y. Bengio, S. Lacoste-Julien, *Q. Bertrand*,
-[https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective] (Submitted)
+[https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity:
+Generalization and Identifiability in Multi-Task Learning], ICML 2023
 -- *Q. Bertrand*, W. M. Czarnecki, G. Gidel [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive], AISTATS 2023
 -- Q. Klopfenstein\*, *Q. Bertrand*\*, A. Gramfort, J. Salmon, S. Vaiter, [https://arxiv.org/abs/2010.11825 Model identification and local linear convergence of coordinate descent], Optimization Letters
 
