@@ -29,6 +29,7 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- 05-12-2023 I will present our paper [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] at the [https://sites.google.com/view/berkeleymarl/home Berkeley Multi-Agent Reinforcement Learning Seminar]
 - Our paper [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity:
 Generalization and Identifiability in Multi-Task Learning
 ] has been accepted at ICML 2023, see you in Hawaii!
