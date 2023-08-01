@@ -5,6 +5,7 @@
 {}{img_left}{./london_cropped.png}{Picture of me}{207}{194}{}
 
 I am a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
+On July 1st 2024 I will join Inria as a Research Scientist!
 \n
 I work on automatic differentiation, games, and representation learning.
 
@@ -29,6 +30,7 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- 01-07-2023 On July 1st 2024 I will join Inria as a Research Scientist!
 - 05-12-2023 I will present our paper [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] at the [https://sites.google.com/view/berkeleymarl/home Berkeley Multi-Agent Reinforcement Learning Seminar]
 - Our paper [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity:
 Generalization and Identifiability in Multi-Task Learning
