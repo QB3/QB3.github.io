@@ -30,6 +30,7 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- 05-10-2023 We just released our paper [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data]!
 - 01-07-2023 On July 1st 2024 I will join Inria as a Research Scientist!
 - 05-12-2023 I will present our paper [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] at the [https://sites.google.com/view/berkeleymarl/home Berkeley Multi-Agent Reinforcement Learning Seminar]
 - Our paper [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity:
@@ -38,13 +39,11 @@ Generalization and Identifiability in Multi-Task Learning
 - Our paper [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] has been accepted to AISTATS 2023, see you in Spain!
 - I just presented our paper [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective] at the [https://winter22.cms.math.ca/ Canadian Mathematical Society Winter Workshop]
 - I just presented our two papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and [https://arxiv.org/abs/2209.13271 The Curse of Unrolling: Rate of Differentiating Through Optimization] at NeurIPS 2022
-- We just released our paper on sparsity for disentanglement [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity: a Multi-task Learning Perspective]!
 - I was awarded the [https://neurips.cc/Conferences/2022/ProgramCommittee top reviewer award] at NeurIPS 2022!
 - Our papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and [https://arxiv.org/abs/2209.13271 The Curse of Unrolling: Rate of Differentiating Through Optimization] have been accepted to NeurIPS 2022!
-- Our paper [https://arxiv.org/abs/2105.01637 Implicit differentiation for fast hyperparameter selection in non-smooth convex learning] was accepted to JMLR!
-
 
 === Past events
+- Our paper [https://arxiv.org/abs/2105.01637 Implicit differentiation for fast hyperparameter selection in non-smooth convex learning] was accepted to JMLR!
 - The code of our paper [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] was integrated in the [https://github.com/scikit-learn-contrib/skglm scikit-contrib] repository. Thanks a lot to all the contributors!
 - Our paper [https://hal.archives-ouvertes.fr/hal-03418092/document
         Electromagnetic neural source imaging under

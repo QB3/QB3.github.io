@@ -9,6 +9,9 @@
 == Papers
 
 - 2023
+-- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data]
+-- J. Ramirez, R. Sukumaran, *Q. Bertrand*, G. Gidel,
+[https://arxiv.org/pdf/2306.07905.pdf Omega: Optimistic EMA Gradients], ICML 2023 LatinX in AI Workshop, [https://github.com/juan43ramirez/Omega code]
 -- S. Lachapelle, T. Deleu, D. Mahajan, I. Mitliagkas, Y. Bengio, S. Lacoste-Julien, *Q. Bertrand*,
 [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity:
 Generalization and Identifiability in Multi-Task Learning], ICML 2023
