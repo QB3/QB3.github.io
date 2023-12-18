@@ -30,6 +30,7 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 == News
 
+- 12-18-2023 We just released our paper proving that [https://arxiv.org/abs/2312.08484 Q-learners can provably learn to collude in the iterated prisoner dilemma]!
 - 05-10-2023 We just released our paper [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data]!
 - 01-07-2023 On July 1st 2024 I will join Inria as a Research Scientist!
 - 05-12-2023 I will present our paper [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] at the [https://sites.google.com/view/berkeleymarl/home Berkeley Multi-Agent Reinforcement Learning Seminar]

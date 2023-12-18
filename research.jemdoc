@@ -9,6 +9,7 @@
 == Papers
 
 - 2023
+-- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma]
 -- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data]
 -- J. Ramirez, R. Sukumaran, *Q. Bertrand*, G. Gidel,
 [https://arxiv.org/pdf/2306.07905.pdf Omega: Optimistic EMA Gradients], ICML 2023 LatinX in AI Workshop, [https://github.com/juan43ramirez/Omega code]
