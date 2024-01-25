@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{optim_crash_course.html}, nofooter
+
+== Mila Optimization Crash Course
+
+== Goal
+
+The goal of this crash course is to present standard proof techniques for simple optimization algorithms.
+\n
+It is tailored for practitioners who use optimization as black box tools, e.g., SGD or ADAM to optimize neural networks and want to understand the underlying principles of optimization.
+\n
+The overall idea is to present each building block of the ADAM optimizer.
+
+For each lecture, proofs will be done onboard and at least 30 minutes will be dedicated to redo the proofs by yourself. Lecture notes will be released on the fly.
+
+== When & Where
+
+Wednesday 15h-17h, room H04 (Mila 6650 building).
+
+== Attempted Schedule
+
+The first sessions, from basic concepts to stochastic gradient descent, will be lecture-based sessions, and the last ones will be seminar-based sessions.
+
+- 02-14-2024 Basic concepts, convexity, smoothness, convergence proof of gradient descent (Lecturer: Quentin Bertrand)
+
+- 02-21-2024 Dual averaging (Lecturer: Damien Scieur)
+
+- 02-28-2024 Acceleration: Nesterov and heavy ball (Lecturer: Damien Scieur)
+
+- 03-06-2024 Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
+
+- 03-13-2024 Stochastic gradient descent (Lecturer: Quentin Bertrand)
+
+- 03-20-2024 RMSProp and ADAM (Lecturer: Charles Guille-Escuret)
+
+- 03-27-2024 New adaptive techniques for deep learning (Lecturer: Damien Scieur)
+
+- 04-03-2024 Edge of stability (Lecturer: Gauthier Gidel)
