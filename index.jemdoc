@@ -4,17 +4,17 @@
 ~~~
 {}{img_left}{./london_cropped.png}{Picture of me}{207}{194}{}
 
-I am a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
-On July 1st 2024 I will join Inria as a Research Scientist!
+I am a post-doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
+On July 1st, 2024 I will join Inria as a Research Scientist!
 \n
 I work on automatic differentiation, games, and representation learning.
 
 Prior to this position, I did my Ph. D. at Inria Paris-Saclay
 (in the [https://team.inria.fr/parietal/ Parietal Team]) under the supervision of [https://josephsalmon.eu/ Joseph Salmon] and [http://alexandre.gramfort.net/ Alexandre Gramfort].
 \n
-I worked on the optimization and statistical aspects of high dimensional sparse linear regression applied to brain signals reconstruction.
+I worked on the optimization and statistical aspects of high dimensional sparse linear regression applied to brain signal reconstruction.
 \n
-In particular, I developed python packages for fast [https://github.com/scikit-learn-contrib/skglm computation] and [https://github.com/QB3/sparse-ho automatic hyperparameter selection] of sparse linear models.
+In particular, I developed Python packages for fast [https://github.com/scikit-learn-contrib/skglm computation] and [https://github.com/QB3/sparse-ho automatic hyperparameter selection] of sparse linear models.
 
 \n
 Here is a short [./pdfs/Quentin_BERTRAND_CV.pdf resume] and my [research.html list of publications].
@@ -32,7 +32,9 @@ Email: quentin \[dot\] bertrand AT mila \[dot\] quebec\n
 
 - 01-16-2024 Our paper [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data] was accepted to ICLR 2024 with a spotlight, see you in Vienna!
 - 12-18-2023 We just released our paper proving that [https://arxiv.org/abs/2312.08484 Q-learners can provably learn to collude in the iterated prisoner dilemma]!
-- 01-07-2023 On July 1st 2024 I will join Inria as a Research Scientist!
+- 01-07-2023 On July 1st, 2024 I will join Inria as a Research Scientist!
+
+== Previous News
 - 05-12-2023 I will present our paper [https://arxiv.org/pdf/2206.12301.pdf, On the Limitations of Elo: Real-World Games are Transitive, not Additive] at the [https://sites.google.com/view/berkeleymarl/home Berkeley Multi-Agent Reinforcement Learning Seminar]
 - Our paper [https://arxiv.org/abs/2211.14666  Synergies between Disentanglement and Sparsity:
 Generalization and Identifiability in Multi-Task Learning
@@ -42,25 +44,3 @@ Generalization and Identifiability in Multi-Task Learning
 - I just presented our two papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and [https://arxiv.org/abs/2209.13271 The Curse of Unrolling: Rate of Differentiating Through Optimization] at NeurIPS 2022
 - I was awarded the [https://neurips.cc/Conferences/2022/ProgramCommittee top reviewer award] at NeurIPS 2022!
 - Our papers [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] and [https://arxiv.org/abs/2209.13271 The Curse of Unrolling: Rate of Differentiating Through Optimization] have been accepted to NeurIPS 2022!
-
-=== Past events
-- Our paper [https://arxiv.org/abs/2105.01637 Implicit differentiation for fast hyperparameter selection in non-smooth convex learning] was accepted to JMLR!
-- The code of our paper [https://arxiv.org/pdf/2204.07826.pdf Beyond L1: Faster and Better Sparse Models with skglm] was integrated in the [https://github.com/scikit-learn-contrib/skglm scikit-contrib] repository. Thanks a lot to all the contributors!
-- Our paper [https://hal.archives-ouvertes.fr/hal-03418092/document
-        Electromagnetic neural source imaging under
-        sparsity constraints with SURE-based hyperparameter tuning]
- was accepted at the "medical imaging meets NeurIPS2021" workshop!
-- Since November 2021 I am a post doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien]
-- I was awarded the NeurIPS 2021 outstanding reviewer award (top 8%)
-- I defended my Ph. D. thesis on Tuesday 28th September! Here is the [./pdfs/thesis_quentin_bertrand.pdf manuscript], here are the [./pdfs/slides_defense.pdf slides], and here is the [https://youtu.be/-CnX6qtbCYU video of the defense].
-Thanks again to all my collaborators
-- February 8: I presented our work on implicit differentiation at
-[https://research.google/locations/montreal/ Google Brain, Montréal]
-- January 23: our paper [https://arxiv.org/pdf/2011.10065.pdf Anderson acceleration of coordinate descent] was accepted to AISTATS 2021!
-- January 4-9: I gave a tutorial on optimization for machine learning at [https://www.ds3-datascience-polytechnique.fr/ the Data Science Summer School ]  of École polytechnique
-- August 26-28: I presented our paper on [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation]  at [https://www.aistats.org/, AISTATS 2020] (virtually)
-- July 12-19: I presented our work on [https://arxiv.org/pdf/2002.08943.pdf Implicit differentiation of Lasso-type models for hyperparameter optimization] at ICML 2020 (virtually)
-- June 28 - July 10, 2020: I attended the [http://mlss.tuebingen.mpg.de/2020/index.html Machine Learning Summer School (MLSS)] (virtually)
-- January 6, 2020: our paper [https://arxiv.org/abs/2001.05401 Support recovery and sup-norm convergence rates for sparse pivotal estimation] was accepted to [https://www.aistats.org/, AISTATS 2020] in Palermo, Italy
-- December 8-15, 2019: I presented our paper [https://arxiv.org/abs/1902.02509 Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso] at [https://nips.cc/ NeurIPS 2019] in Vancouver, Canada
-- October 21-25, 2019: I was awarded a grant from [https://www.gdria.fr/programme-visites-de-doctorants-2019/ GDR IA] to visit [https://samuelvaiter.com/ Samuel Vaiter] in Dijon, France
