@@ -22,13 +22,15 @@ Lucas Maes, Danilo Vucetic, Damien Scieur and Quentin Bertrand
 
 == Attempted Schedule
 
-The first sessions, from basic concepts to stochastic gradient descent, will be lecture-based sessions, and the last ones will be seminar-based sessions.
+The first sessions, from basic concepts to stochastic gradient descent, will be lecture-based, and the last ones will be seminar-based sessions.
 
 - 02-14-2024 Basic concepts, convexity, smoothness, convergence proof of gradient descent (Lecturer: Quentin Bertrand)
+-- References: Lecture notes from [https://courses.cs.washington.edu/courses/cse546/15au/lectures/lecture09_optimization.pdf Sham Kakade], [https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf Ryan Tibshirani], [https://mathurinm.github.io/assets/2022_ens/class.pdf Mathurin Massias] (Chapters 2 and 3). You can also check [https://pages.cs.wisc.edu/~yliang/cs839_spring22/material/Introductory-Lectures-on-Convex-Programming-Yurii-Nesterov-2004.pdf Yuri Nesterov]'s book (Chapters 1 and 2)
 
 - 02-21-2024 Dual averaging (Lecturer: Damien Scieur)
 
 - 02-28-2024 Acceleration: Nesterov and heavy ball (Lecturer: Damien Scieur)
+-- References: Chapter 4 of [https://www.nowpublishers.com/article/DownloadSummary/OPT-036 Damien's monograph]
 
 - 03-06-2024 Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
 
