@@ -29,15 +29,17 @@ The first sessions, from basic concepts to stochastic gradient descent, will be 
 -- References: Lecture notes from [https://courses.cs.washington.edu/courses/cse546/15au/lectures/lecture09_optimization.pdf Sham Kakade], [https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf Ryan Tibshirani], [https://mitliagkas.github.io/ift6085-2020/ift-6085-lecture-2-notes.pdf Ioannis Mitliagkas], [https://perso.telecom-paristech.fr/rgower/pdf/M2_statistique_optimisation/grad_conv.pdf Robert Gower], [https://mathurinm.github.io/assets/2022_ens/class.pdf Mathurin Massias] (Chapters 2 and 3). You can also check [https://pages.cs.wisc.edu/~yliang/cs839_spring22/material/Introductory-Lectures-on-Convex-Programming-Yurii-Nesterov-2004.pdf Yuri Nesterov]'s book (Chapters 1 and 2)
 
 - 02-21-2024 Subgradient Descent and Dual averaging (Lecturer: Damien Scieur)
--- References: Lectures from [https://people.eecs.berkeley.edu/~jiantao/227c2022spring/scribe/227C_Lecture_04.pdf Jiantao Jiao]
+-- References: Lectures notes from [https://people.eecs.berkeley.edu/~jiantao/227c2022spring/scribe/227C_Lecture_04.pdf Jiantao Jiao]
 
-- 02-28-2024 Acceleration: Nesterov and heavy ball (Lecturer: Damien Scieur)
+- 02-28-2024 Convergence proof of gradient and subgradient descent Part 2 (Lecturer: Quentin Bertrand)
+
+- 03-06-2024 Acceleration: Nesterov and heavy ball (Lecturer: Damien Scieur)
 -- References: Chapter 4 of [https://www.nowpublishers.com/article/DownloadSummary/OPT-036 Damien's monograph]
-
-- 03-06-2024 Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
 
 - 03-13-2024 Stochastic gradient descent (Lecturer: Quentin Bertrand)
 -- References: Simon Lacoste-Julien Lecture notes on [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture10_scribbles.pdf stochastic subgradient method] and [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture11_scribbles.pdf convex optimization]
+
+- TBD Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
 
 - 03-20-2024 RMSProp and ADAM (Lecturer: Charles Guille-Escuret)
 
