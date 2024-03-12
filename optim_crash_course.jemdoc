@@ -37,7 +37,7 @@ The first sessions, from basic concepts to stochastic gradient descent, will be 
 -- References: Chapter 4 of [https://www.nowpublishers.com/article/DownloadSummary/OPT-036 Damien's monograph]
 
 - 03-13-2024 Stochastic gradient descent (Lecturer: Quentin Bertrand)
--- References: Simon Lacoste-Julien Lecture notes on [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture10_scribbles.pdf stochastic subgradient method] and [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture11_scribbles.pdf convex optimization]
+-- References: Fabian Pedregosa blog posts for [https://fa.bianp.net/teaching/2018/COMP-652/stochastic_gradient.html intuitions] and [https://fa.bianp.net/blog/2021/exponential-sgd/ proofs], Simon Lacoste-Julien Lecture notes on [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture10_scribbles.pdf stochastic subgradient method] and [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture11_scribbles.pdf convex optimization], [https://arxiv.org/pdf/2301.11235.pdf Guillaume Garrigos and Robert Gower monography]
 
 - TBD Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
 
