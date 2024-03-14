@@ -39,10 +39,10 @@ The first sessions, from basic concepts to stochastic gradient descent, will be 
 - 03-13-2024 Stochastic gradient descent (Lecturer: Quentin Bertrand)
 -- References: Fabian Pedregosa blog posts for [https://fa.bianp.net/teaching/2018/COMP-652/stochastic_gradient.html intuitions] and [https://fa.bianp.net/blog/2021/exponential-sgd/ proofs], [http://www.seas.ucla.edu/~vandenbe/236C/lectures/gradient.pdf Lieven Vandenberghe Lecture's notes], Simon Lacoste-Julien Lecture notes on [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture10_scribbles.pdf stochastic subgradient method] and [https://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6132/W24/notes/lecture11_scribbles.pdf convex optimization], [https://arxiv.org/pdf/2301.11235.pdf Guillaume Garrigos and Robert Gower monography]
 
-- TBD Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
+- 03-20-2024 Adaptive methods: line search and Polyak step size (Lecturer: Damien Scieur)
 
-- 03-20-2024 RMSProp and ADAM (Lecturer: Charles Guille-Escuret)
+- 03-27-2024 RMSProp and ADAM (Lecturer: Charles Guille-Escuret)
 
-- 03-27-2024 New adaptive techniques for deep learning (Lecturer: Damien Scieur)
+- 04-03-2024 New adaptive techniques for deep learning (Lecturer: Damien Scieur)
 
-- 04-03-2024 Edge of stability (Lecturer: Gauthier Gidel)
+- 04-17-2024 Edge of stability (Lecturer: Gauthier Gidel)
