@@ -9,8 +9,8 @@
 == Papers
 
 - 2024
--- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data], ICLR 2024 (with spotlight!)
 -- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma]
+-- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data], ICLR 2024 (with spotlight!), [https://github.com/QB3/gen_models_dont_go_mad code], [./pdfs/iterative_retraining.pdf slides]
 
 - 2023
 -- J. Ramirez, R. Sukumaran, *Q. Bertrand*, G. Gidel,
@@ -75,6 +75,8 @@ NeurIPS 2022
 
 == Slides
 
+-    [./pdfs/iterative_retraining.pdf
+        On the Stability of Iterative Retraining of Generative Models on their own Data]
 -    [./pdfs/slides_defense.pdf
         Hyperparameter selection for high dimensional sparse learning: application to neuroimaging],
         28\/09\/2021, Ph. D. Defense, Paris-Saclay, France.
@@ -93,11 +95,10 @@ NeurIPS 2022
 
 
 == Reviewing service
-- ICML 2021-2023
-- ICLR 2021-2023
-- SIOPT 2023
-- NeurIPS 2020-2022 (top reviewer in 2021 and 2022)
-- JMLR 2021-2022
+- ICML 2021-2024
+- ICLR 2021-2024
+- NeurIPS 2020-2024 (top reviewer in 2021 and 2022)
+- JMLR 2021-2024
 - Neuroimage 2019-2021
 - AISTATS 2021
 - Electronic Journal of Statistics 2020
