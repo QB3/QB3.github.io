@@ -10,7 +10,7 @@
 
 - 2024
 -- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma]
--- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data], ICLR 2024 (with spotlight!), [https://github.com/QB3/gen_models_dont_go_mad code], [./pdfs/iterative_retraining.pdf slides]
+-- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data], ICLR 2024 (with spotlight!), [https://github.com/QB3/gen_models_dont_go_mad code], [./pdfs/iterative_retraining.pdf slides], [https://www.youtube.com/watch?v=ZOLHzmSZWrA video]
 
 - 2023
 -- J. Ramirez, R. Sukumaran, *Q. Bertrand*, G. Gidel,
@@ -76,7 +76,7 @@ NeurIPS 2022
 == Slides
 
 -    [./pdfs/iterative_retraining.pdf
-        On the Stability of Iterative Retraining of Generative Models on their own Data]
+        On the Stability of Iterative Retraining of Generative Models on their own Data], [https://www.youtube.com/watch?v=ZOLHzmSZWrA video]
 -    [./pdfs/slides_defense.pdf
         Hyperparameter selection for high dimensional sparse learning: application to neuroimaging],
         28\/09\/2021, Ph. D. Defense, Paris-Saclay, France.
