@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{./london_cropped.png}{Picture of me}{207}{194}{}
 
-Since July 1st, I am a researcher (`chargé de recherche`) at Inria Lyon, located in Laboratoire Hubert Curien.
+Since July 1st, I am a researcher (`chargé de recherche`) at Inria Lyon, in the [https://labhc-malice.github.io/ Malice team], located in Laboratoire Hubert Curien.
 I work on optimization, games, and representation learning.
 
 From November 2021 to June 2024, I was a post-doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
@@ -30,6 +30,7 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 == News
 
+- 07-01-2024 Just started as an Inria researcher in the [https://labhc-malice.github.io/ Malice team]
 - 04-22-2024 The recording of the talk [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data] at the Montreal Machine Learning Seminar can be found [https://www.youtube.com/watch?v=ZOLHzmSZWrA here]
 - 01-16-2024 Our paper [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data] was accepted to ICLR 2024 with a spotlight, see you in Vienna!
 - 12-18-2023 We just released our paper proving that [https://arxiv.org/abs/2312.08484 Q-learners can provably learn to collude in the iterated prisoner dilemma]!
