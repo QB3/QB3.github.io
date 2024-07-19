@@ -9,6 +9,7 @@
 == Papers
 
 - 2024
+-- D. Ferbach, *Q. Bertrand*, A. J. Bose, G. Gidel [https://arxiv.org/abs/2407.09499 Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences ]
 -- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma]
 -- *Q. Bertrand*, A. J. Bose, A. Duplessis, M. Jiralerspong, G. Gidel [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data], ICLR 2024 (with spotlight!), [https://github.com/QB3/gen_models_dont_go_mad code], [./pdfs/iterative_retraining.pdf slides], [https://www.youtube.com/watch?v=ZOLHzmSZWrA video]
 
