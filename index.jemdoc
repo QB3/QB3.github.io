@@ -4,17 +4,17 @@
 ~~~
 {}{img_left}{./london_cropped.png}{Picture of me}{207}{194}{}
 
-Since July 1st, I am a researcher (`chargé de recherche`) at Inria Lyon, in the [https://labhc-malice.github.io/ Malice team], located in Laboratoire Hubert Curien.
+Since July 1st, I am a researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon], in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien].
 I work on optimization, games, and representation learning.
 
 From November 2021 to June 2024, I was a post-doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
-\n
 Prior to this position, I did my Ph. D. at Inria Paris-Saclay
 (in the [https://team.inria.fr/parietal/ Parietal Team]) under the supervision of [https://josephsalmon.eu/ Joseph Salmon] and [http://alexandre.gramfort.net/ Alexandre Gramfort].
-\n
 I worked on the optimization and statistical aspects of high dimensional sparse linear regression applied to brain signal reconstruction.
-\n
-In particular, I developed Python packages for fast [https://github.com/scikit-learn-contrib/skglm computation] and [https://github.com/QB3/sparse-ho automatic hyperparameter selection] of sparse linear models.
+
+In particular,
+- Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] got [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html media coverage from the N.Y. times]!
+- I developed Python packages for fast [https://github.com/scikit-learn-contrib/skglm computation] and [https://github.com/QB3/sparse-ho automatic hyperparameter selection] of sparse linear models.
 
 \n
 Here is a short [./pdfs/Quentin_BERTRAND_CV.pdf resume] and my [research.html list of publications].
@@ -29,7 +29,7 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
-
+- 08-26-2024 Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] was [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html featured in the N.Y. times]!
 - 07-19-2024 Our paper showing that [https://arxiv.org/abs/2407.09499 Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences] was just released on arxiv!
 - 07-01-2024 Just started as an Inria researcher in the [https://labhc-malice.github.io/ Malice team]
 - 04-22-2024 The recording of the talk [https://arxiv.org/pdf/2310.00429.pdf, On the Stability of Iterative Retraining of Generative Models on their own Data] at the Montreal Machine Learning Seminar can be found [https://www.youtube.com/watch?v=ZOLHzmSZWrA here]
