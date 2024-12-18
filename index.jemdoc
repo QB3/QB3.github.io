@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{./neurips2024.JPG}{Picture of me}{207}{194}{}
 
-Since July 1st, I am a researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon] and [https://www.univ-st-etienne.fr/en/index.html Université Jean Monnet], in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien].
+Since July 1st, I am a junior tenured researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon] and [https://www.univ-st-etienne.fr/en/index.html Université Jean Monnet], in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien].
 I work on optimization and generative models.
 
 From November 2021 to June 2024, I was a post-doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
@@ -15,7 +15,7 @@ I worked on the optimization and statistical aspects of high dimensional sparse 
 In particular,
 - We just released a [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/ friendly blog post] on normalizing flows and conditional flow matching techniques!
 - Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] got [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html media coverage from the N.Y. times]!
-- I developed Python packages for [https://github.com/scikit-learn-contrib/ large scale optimization] of sparse problems ([https://pepy.tech/project/skglm 4k download/month]).
+- I developed a [https://github.com/scikit-learn-contrib/skglm Python package for large scale optimization] of sparse problems ([https://pepy.tech/project/skglm 4k download/month]).
 
 
 \n
