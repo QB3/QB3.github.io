@@ -8,6 +8,9 @@
 
 == Papers
 
+- 2025
+-- A. Gagneux, S. Martin, R. Emonet, *Q. Bertrand*, M. Massias [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/ A Visual Dive into Conditional Flow Matching], ICLR 2025, Blog Post Track
+
 - 2024
 -- D. Ferbach, *Q. Bertrand*, A. J. Bose, G. Gidel [https://arxiv.org/abs/2407.09499 Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences], NeurIPS 2024 (with spotlight!), [./pdfs/iterative_retraining_preference.pdf slides]
 -- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma]
