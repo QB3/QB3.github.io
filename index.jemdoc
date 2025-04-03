@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{./neurips2024.JPG}{Picture of me}{207}{194}{}
 
-Since July 1st, I am a junior tenured researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon] and [https://www.univ-st-etienne.fr/en/index.html Université Jean Monnet], in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien]. I teach at [https://www.ens-lyon.fr/ ENS Lyon].
+Since July 1st 2024, I am a junior tenured researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon] and [https://www.univ-st-etienne.fr/en/index.html Université Jean Monnet], in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien]. I teach at [https://www.ens-lyon.fr/ ENS Lyon].
 I currently work on optimization and generative models.
 
 From November 2021 to June 2024, I was a post-doctoral researcher at [https://mila.quebec/ Mila] working with [https://gauthiergidel.github.io/ Gauthier Gidel] and [https://www.iro.umontreal.ca/~slacoste/ Simon Lacoste-Julien].
@@ -31,6 +31,9 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
+- 04-08-2025 I will teach generative models at the Dakar Machine Learning Summer School. See you soon in Dakar!
+- 03-20-2025 Our Inria-Mila associated team was just created. See you soon in Montréal!
+- 02-01-2025 Our [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/ friendly blog post] on normalizing flows and conditional flow matching techniques was accepted at the ICLR 2025 Blog Post Track.
 - 01-15-2025 I just gave a talk on how to retrain on synthetic data at the [https://rt-maiages.math.cnrs.fr/mia25/program/ Mathematic Image and Applications conference]! Here are the [./pdfs/iterative_retraining_preference.pdf slides]
 - 12-09-2024 I was at NeurIPS to present our paper [https://arxiv.org/abs/2407.09499 Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences]
 - 11-26-2024 We just released a [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/  blog post] on normalizing flows and conditional flow matching techniques!
