@@ -14,7 +14,7 @@ I worked on the optimization and statistical aspects of high dimensional brain s
 
 In particular,
 - We just released a [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/ friendly blog post] on normalizing flows and conditional flow matching techniques!
-- Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] got [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html media coverage from the N.Y. times]!
+- Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] got [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html media coverage from the N.Y. times] and the [https://www.theglobeandmail.com/business/article-training-ai-models-generated-data-llms/ Canada Globe and Mail]!
 - We released a [https://github.com/scikit-learn-contrib/skglm Python package for large scale optimization] of sparse problems ([https://pepy.tech/project/skglm 4k download/month]).
 
 
