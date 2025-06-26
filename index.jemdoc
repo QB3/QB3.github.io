@@ -31,6 +31,7 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
+- We just released a paper that [https://arxiv.org/pdf/2506.03719 investigates the generalization of flow matching deep generative models]!
 - We organize a [https://smai2025.math.cnrs.fr/fr/programme/minisymposia/ minisymphosium on Generative Models and Optimal Transport] for the [https://smai2025.math.cnrs.fr/fr/ 2025 Biennal SMAI Conference].
 It will take place from June 2nd to June 6th, see you in Carcans-Maubuissons!
 - 05-02-2025 Our paper [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma] was just accepted to ICML, see you in Vancouver!
