@@ -1,10 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 ==Quentin BERTRAND - Research
 
-== Ph. D. Thesis
-
-- *Q. Bertrand*, [https://tel.archives-ouvertes.fr/tel-03373531/document Hyperparameter selection for high dimensional sparse learning: application to neuroimaging], [./pdfs/slides_defense.pdf slides], [https://youtu.be/-CnX6qtbCYU recording of the defense]
-
 
 == Papers
 
@@ -79,6 +75,11 @@ NeurIPS 2022
         [https://qb3.github.io/CLaR/ doc]
 
 
+== Ph. D. Thesis
+
+- *Q. Bertrand*, [https://tel.archives-ouvertes.fr/tel-03373531/document Hyperparameter selection for high dimensional sparse learning: application to neuroimaging], [./pdfs/slides_defense.pdf slides], [https://youtu.be/-CnX6qtbCYU recording of the defense]
+
+
 == Slides
 
 -    [./pdfs/iterative_retraining.pdf
@@ -95,17 +96,11 @@ NeurIPS 2022
 -    [./pdfs/talks/sparse_ho_long.pdf
         Implicit differentiation of Lasso-type models for hyperparameter optimization],
         09\/09\/2020, SMAI MODE 2020, France.
--    [./pdfs/talks/GDRMOA2019.pdf
-        Handling correlated and repeated measurements with the smoothed multivariate square-root Lasso],
-        18\/10\/2019, GDR MOA 2019, France.
 
 
 == Reviewing service
-- ICML 2021-2024
-- ICLR 2021-2024
-- NeurIPS 2020-2024 (top reviewer in 2021 and 2022)
-- JMLR 2021-2024
-- Neuroimage 2019-2021
-- AISTATS 2021
-- Electronic Journal of Statistics 2020
-- IEEE SPL 2020
+- ICML 2021-2025
+- ICLR 2021-2025
+- NeurIPS 2020-2025 (top reviewer in 2021 and 2022)
+- JMLR 2021-2025
+- TMLR 2023-2025
