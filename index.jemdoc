@@ -23,6 +23,9 @@ In particular,
 \n
 Here is a short [./pdfs/Quentin_BERTRAND_CV.pdf resume] and my [research.html list of publications].
 
+\n
+
+The material for the [https://ivado.ca/en/events/bootcamp-focusing-on-the-current-state-of-agents/ IVADO Bootcamp: Focusing on the Current State of Agents] can be found [https://github.com/QB3/ivado_bootcamp_tutorial here].
 
 ~~~
 
@@ -33,6 +36,7 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
+- 08-15-2025 I will give a tutorial on cooperation in multi-agent reinforcement learning at the [https://ivado.ca/en/events/bootcamp-focusing-on-the-current-state-of-agents/ IVADO Bootcamp: Focusing on the Current State of Agents]
 - We just released a paper that [https://arxiv.org/pdf/2506.03719 investigates the generalization of flow matching deep generative models]!
 - We organize a [https://smai2025.math.cnrs.fr/fr/programme/minisymposia/ minisymphosium on Generative Models and Optimal Transport] for the [https://smai2025.math.cnrs.fr/fr/ 2025 Biennal SMAI Conference].
 It will take place from June 2nd to June 6th, see you in Carcans-Maubuissons!
