@@ -5,7 +5,7 @@
 == Papers
 
 - 2025
--- *Q. Bertrand*, A. Gagneux, M. Massias, R. Emonet [https://arxiv.org/pdf/2506.03719 On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity]
+-- *Q. Bertrand*, A. Gagneux, M. Massias, R. Emonet [https://arxiv.org/pdf/2506.03719 On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity], Neurips 2025 *oral, top 0.3%*
 -- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma], ICML 2025
 -- B. Moufad, P.-A. Bannier, *Q. Bertrand*, Q. Klopfenstein, M. Massias; [https://jmlr.org/papers/volume26/24-0008/24-0008.pdf skglm: Improving scikit-learn for regularized Generalized Linear Models], JMLR 2025 (also presented at the ICML 2025 CODEML Workshop)
 -- A. Gagneux, S. Martin, R. Emonet, *Q. Bertrand*, M. Massias [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/ A Visual Dive into Conditional Flow Matching], ICLR 2025, Blog Post Track
