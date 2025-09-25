@@ -17,7 +17,7 @@ In particular,
 - Our work on the [https://arxiv.org/pdf/2506.03719 generalization of flow matching deep generative models] was accepted at NeurIPS 2025 as an *oral*! (top 0.3%)
 - I just launched the Inria-Mila associated team!
 - We just released a [https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/ friendly blog post] on normalizing flows and conditional flow matching techniques!
-- Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] got [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html media coverage from the N.Y. Times], the [https://www.theglobeandmail.com/business/article-training-ai-models-generated-data-llms/ Globe and Mail], and [https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/l-effondrement-pas-si-ineluctable-des-ia_187919 Science et Avenir]!
+- Our recent works on [https://arxiv.org/pdf/2310.00429.pdf self-consuming generative models] and [https://arxiv.org/abs/2407.09499 their biases] got [https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html media coverage from the N.Y. Times], the [https://www.theglobeandmail.com/business/article-training-ai-models-generated-data-llms/ Globe and Mail], and [https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/l-effondrement-pas-si-ineluctable-des-ia_187919 Sciences et Avenir]!
 - We released a [https://github.com/scikit-learn-contrib/skglm Python package for large scale optimization] of sparse problems ([https://pepy.tech/project/skglm 4k download/month]).
 
 
