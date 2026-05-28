@@ -4,6 +4,10 @@
 
 == Papers
 
+- 2026
+-- C. Chalayer, *Q. Bertrand*, E. Morvant, R. Emonet On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity, ECML 2026
+-- Q. Bertrand, M. Massias Tutorial on the Generalization of Diffusion and Flow Matching Models *ICML 2026 Tutorial*
+
 - 2025
 -- *Q. Bertrand*, A. Gagneux, M. Massias, R. Emonet [https://arxiv.org/pdf/2506.03719 On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity], Neurips 2025 *oral, top 0.3%*, [./pdfs/generalization_fm.pdf slides]
 -- *Q. Bertrand*, J. Duque, E. Calvano, G. Gidel [https://arxiv.org/abs/2312.08484 Self-Play Q-learners Can Provably Collude in the Iterated Prisoner's Dilemma], ICML 2025
