@@ -2,9 +2,10 @@
 ==Quentin BERTRAND - Home
 
 ~~~
-{}{img_left}{./neurips2024.JPG}{Picture of me}{207}{194}{}
+{}{img_left}{./GlobalScholars-0788.jpg}{Picture of me}{207}{194}{}
 
-Since July 2024, I am a tenured researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon] in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien]. Since September 2025, I am a Mila-affiliated member.
+Since July 2024, I am a tenured researcher (`chargé de recherche`) at [https://www.inria.fr/en/inria-lyon-centre Inria Lyon] in the [https://labhc-malice.github.io/ Malice team], located in [https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html Laboratoire Hubert Curien]. I am a [https://mila.quebec Mila]-affiliated member and a [https://cifar.ca/next-generation/global-scholars/ CIFAR Global Scholar], member of the [https://cifar.ca/research-programs/learning-in-machines-brains/ Learning Brain and Machine program].
+
 I currently work on generative models and multi-agent learning.
 More broadly, I study how learning algorithms can leverage and interact with synthetic data from deep generative models.
 
@@ -45,8 +46,7 @@ Email: quentin \[dot\] bertrand AT inria \[dot\] fr\n
 
 
 == News
-- 05-19-2026 I was awarded the CIFAR Global Scholar Fellowship, see you soon in Canada!
-- 10-31-2025 I was thrilled to give a tutorial on deep generative models at the Dakar machine learning Winter School! See you again in April!
+- 05-19-2026 I am now a [https://cifar.ca/next-generation/global-scholars/ CIFAR Global Scholar], see you soon in Canada!
 - 11-03-2025 I was awarded a joint ANR-NSERC 2025 funding to push further our work on the creativity of generative modeling. More details soon!
 - I was appointed Mila affiliated member! See you in Montréal!
 - Our work on the [https://arxiv.org/pdf/2506.03719 generalization of flow matching deep generative models] was accepted at NeurIPS 2025 as an *oral*! (top 0.3%) see you in San Diego!
